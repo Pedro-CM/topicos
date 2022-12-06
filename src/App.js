@@ -14,7 +14,7 @@ export default function App() {
       anio: '1980',
     },
     {
-      nombre: 'JAGUARCITO',
+      nombre: 'EL ELEGANTE',
       modelo: 'International L-170',
       imagen:
         'https://www.enterprise.com/content/dam/ecom/utilitarian/common/exotics/us-refresh/car-thumbnails/thumbnail-2021-jaguar-xf-2048x1360.png',
