@@ -6,10 +6,10 @@ export default function App() {
   //Esta es una variable que representaría al arreglo de objetos JSON que se podrían recuperar desde una API Rest.
   const personajesDesdeAPI = [
     {
-      nombre: 'EL VIEJON',
-      modelo: 'Chevrolet Corvette C6 de NASCAR',
-      imagen: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM3OHRGqo2t_riMeUVNv8T-FbMZ3HJ8bTK0t5h0u-H&s',
-      descripcion: 'El auto mas BONITO DE LOS AÑOS 80.',
+      nombre: 'LA MAQUINA',
+      modelo: ' Ferrari 250 GTO ',
+      imagen: 'https://img.remediosdigitales.com/48f260/ferrari-250-gto-gris-01/1366_2000.jpg',
+      descripcion: 'EL LEVANTA NENAS MAS BONITO DE LOS AÑOS 80.',
       sonido: 'RUN-RUN-RAAAA',
       anio: '1980',
     },
@@ -18,7 +18,7 @@ export default function App() {
       modelo: 'International L-170',
       imagen:
         'https://www.enterprise.com/content/dam/ecom/utilitarian/common/exotics/us-refresh/car-thumbnails/thumbnail-2021-jaguar-xf-2048x1360.png',
-      descripcion: 'El CARRO MAS DE CLASE DEL MUNDO BB.',
+      descripcion: 'El CARRO MAS DE CARO DEL MUNDO .',
       sonido: 'RAAAAAAAAAA',
       anio: '2020',
     },
